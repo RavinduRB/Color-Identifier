@@ -8,16 +8,6 @@ The app also includes a **camera selector dropdown** for multiple webcam support
 
 ---
 
-🔴  **Technologies Used**
-
-     🔹Python – Core programming language.
-     🔹OpenCV – For real-time video capture and frame processing.
-     🔹MediaPipe – Prepared for hand tracking.
-     🔹Tkinter – For building the desktop GUI.
-     🔹Pillow (PIL) – For converting OpenCV frames to display in Tkinter.
-
----
-
 ✨  **Key Features**
 
      ✅ Real-time webcam video feed
@@ -25,3 +15,13 @@ The app also includes a **camera selector dropdown** for multiple webcam support
      ✅ Live hex color code display
      ✅ GUI color box that reflects the detected color
      ✅ Multiple camera selection support
+     
+---
+
+🔴  **Technologies Used**
+
+     🔹Python – Core programming language.
+     🔹OpenCV – For real-time video capture and frame processing.
+     🔹MediaPipe – Prepared for hand tracking.
+     🔹Tkinter – For building the desktop GUI.
+     🔹Pillow (PIL) – For converting OpenCV frames to display in Tkinter.
