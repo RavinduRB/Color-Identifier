@@ -18,7 +18,7 @@ The app also includes a **camera selector dropdown** for multiple webcam support
      
 ---
 
-🔴  **Technologies Used**
+🔴  **Tech Stack**
 
      🔹Python – Core programming language.
      🔹OpenCV – For real-time video capture and frame processing.
